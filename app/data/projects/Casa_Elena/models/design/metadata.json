@@ -1,0 +1,814 @@
+{
+  "id": "0001",
+  "projectId": "0mm9k9GdX4SeluLq08V_O1",
+  "author": "",
+  "createdAt": "2020-10-29T09:40:34",
+  "schema": "IFC2X3",
+  "creatingApplication": "21.0.0.383 - Exporter 21.0.0.383 - Alternate UI 21.0.0.383",
+  "metaObjects": [
+    {
+      "id": "0mm9k9GdX4SeluLq08V_O1",
+      "name": "0001",
+      "type": "IfcProject",
+      "parent": null
+    },
+    {
+      "id": "0mm9k9GdX4SeluLq08V_O3",
+      "name": "Default",
+      "type": "IfcSite",
+      "parent": "0mm9k9GdX4SeluLq08V_O1"
+    },
+    {
+      "id": "0mm9k9GdX4SeluLq08V_O0",
+      "name": "",
+      "type": "IfcBuilding",
+      "parent": "0mm9k9GdX4SeluLq08V_O3"
+    },
+    {
+      "id": "0mm9k9GdX4SeluLq3tW1Z6",
+      "name": "A_L00_0100_GroundFloor",
+      "type": "IfcBuildingStorey",
+      "parent": "0mm9k9GdX4SeluLq08V_O0"
+    },
+    {
+      "id": "2ZkynD2d1CDAUTbs9nNJ9m",
+      "name": "Basic Wall:PL_A_WA_EXT_PFC_110mm:347199",
+      "type": "IfcWallStandardCase",
+      "parent": "0mm9k9GdX4SeluLq3tW1Z6"
+    },
+    {
+      "id": "2ZkynD2d1CDAUTbs9nNJFG",
+      "name": "Basic Wall:PL_A_WA_EXT_PFC_110mm:347551",
+      "type": "IfcWallStandardCase",
+      "parent": "0mm9k9GdX4SeluLq3tW1Z6"
+    },
+    {
+      "id": "2ZkynD2d1CDAUTbs9nNJ1u",
+      "name": "Basic Wall:PL_A_WA_EXT_PFC_110mm:347703",
+      "type": "IfcWallStandardCase",
+      "parent": "0mm9k9GdX4SeluLq3tW1Z6"
+    },
+    {
+      "id": "2ZkynD2d1CDAUTbs9nNJ5i",
+      "name": "Basic Wall:PL_A_WA_EXT_PFC_110mm:347939",
+      "type": "IfcWallStandardCase",
+      "parent": "0mm9k9GdX4SeluLq3tW1Z6"
+    },
+    {
+      "id": "2ZkynD2d1CDAUTbs9nNJ6J",
+      "name": "Basic Wall:PL_A_WA_INT_PFC_TIL_110mm:348124",
+      "type": "IfcWallStandardCase",
+      "parent": "0mm9k9GdX4SeluLq3tW1Z6"
+    },
+    {
+      "id": "2ZkynD2d1CDAUTbs9nNIuZ",
+      "name": "Basic Wall:PL_A_WA_INT_PFC_TIL_110mm:348268",
+      "type": "IfcWallStandardCase",
+      "parent": "0mm9k9GdX4SeluLq3tW1Z6"
+    },
+    {
+      "id": "2ZkynD2d1CDAUTbs9nNIwf",
+      "name": "Basic Wall:PL_A_WA_INT_PFC_TIL_110mm:348390",
+      "type": "IfcWallStandardCase",
+      "parent": "0mm9k9GdX4SeluLq3tW1Z6"
+    },
+    {
+      "id": "2ZkynD2d1CDAUTbs9nNIm4",
+      "name": "Basic Wall:PL_A_WA_EXT_PFC_110mm:348747",
+      "type": "IfcWallStandardCase",
+      "parent": "0mm9k9GdX4SeluLq3tW1Z6"
+    },
+    {
+      "id": "2ZkynD2d1CDAUTbs9nNItT",
+      "name": "Basic Wall:PL_A_WA_INT_PFC_110mm:349074",
+      "type": "IfcWallStandardCase",
+      "parent": "0mm9k9GdX4SeluLq3tW1Z6"
+    },
+    {
+      "id": "2ZkynD2d1CDAUTbs9nNIf2",
+      "name": "Basic Wall:PL_A_WA_INT_PFC_110mm:349197",
+      "type": "IfcWallStandardCase",
+      "parent": "0mm9k9GdX4SeluLq3tW1Z6"
+    },
+    {
+      "id": "3lMlzVYqv3Vea0v6Enxi$7",
+      "name": "Floor:PL_A_SL_PRF_80mm:350012",
+      "type": "IfcSlab",
+      "parent": "0mm9k9GdX4SeluLq3tW1Z6"
+    },
+    {
+      "id": "3lMlzVYqv3Vea0v6EnxiMR",
+      "name": "Floor:PL_A_SL_PRF_50mm:351584",
+      "type": "IfcSlab",
+      "parent": "0mm9k9GdX4SeluLq3tW1Z6"
+    },
+    {
+      "id": "0GPWZj7VP3JxSRRFwNpOf8",
+      "name": "Floor:PL_A_SL_PRF_50mm:352061",
+      "type": "IfcSlab",
+      "parent": "0mm9k9GdX4SeluLq3tW1Z6"
+    },
+    {
+      "id": "2ZRpYtmFbB2hPEMyeAiNiF",
+      "name": "Floor:PL_A_SL_PRF_TIL-20mm:360521",
+      "type": "IfcSlab",
+      "parent": "0mm9k9GdX4SeluLq3tW1Z6"
+    },
+    {
+      "id": "0fFxF048H1cAJilYFPYYP9",
+      "name": "Floor:PL_A_SL_PRF_TIL-20mm:375743",
+      "type": "IfcSlab",
+      "parent": "0mm9k9GdX4SeluLq3tW1Z6"
+    },
+    {
+      "id": "0fFxF048H1cAJilYFPYYFR",
+      "name": "Floor:PL_A_SL_PRF_TIL-20mm:376365",
+      "type": "IfcSlab",
+      "parent": "0mm9k9GdX4SeluLq3tW1Z6"
+    },
+    {
+      "id": "0fFxF048H1cAJilYFPYYAH",
+      "name": "Floor:PL_A_SL_PRF_TIL-20mm:376679",
+      "type": "IfcSlab",
+      "parent": "0mm9k9GdX4SeluLq3tW1Z6"
+    },
+    {
+      "id": "02n2A9ilnBEQ$rgAB$4U$H",
+      "name": "PL_A_WN_2DR_Sliding:WND_2DR_Sliding_1500x1100x70mm:408103",
+      "type": "IfcWindow",
+      "parent": "0mm9k9GdX4SeluLq3tW1Z6"
+    },
+    {
+      "id": "02n2A9ilnBEQ$rgAB$4UyX",
+      "name": "PL_A_WN_2DR_Sliding:WND_2DR_Sliding_1500x1100x70mm:408279",
+      "type": "IfcWindow",
+      "parent": "0mm9k9GdX4SeluLq3tW1Z6"
+    },
+    {
+      "id": "02n2A9ilnBEQ$rgAB$4UYY",
+      "name": "PL_A_DR_EXT_SLD:PL_A_DR_EXT_SLD_1900x2100:408916",
+      "type": "IfcDoor",
+      "parent": "0mm9k9GdX4SeluLq3tW1Z6"
+    },
+    {
+      "id": "02n2A9ilnBEQ$rgAB$4Ujh",
+      "name": "PL_A_WD_1DR:PL_A_WD_GRD_ALU_1000x1000 mm:409245",
+      "type": "IfcWindow",
+      "parent": "0mm9k9GdX4SeluLq3tW1Z6"
+    },
+    {
+      "id": "02n2A9ilnBEQ$rgAB$4Uf_",
+      "name": "PL_A_DR_INT:PL_A_DR_INT_700*2100mm:409480",
+      "type": "IfcDoor",
+      "parent": "0mm9k9GdX4SeluLq3tW1Z6"
+    },
+    {
+      "id": "02n2A9ilnBEQ$rgAB$4PGp",
+      "name": "PL_A_DR_INT:PL_A_DR_INT_600*2100mm:410053",
+      "type": "IfcDoor",
+      "parent": "0mm9k9GdX4SeluLq3tW1Z6"
+    },
+    {
+      "id": "02n2A9ilnBEQ$rgAB$4PVl",
+      "name": "PL_A_DR_INT:PL_A_DR_INT_700*2100mm:410137",
+      "type": "IfcDoor",
+      "parent": "0mm9k9GdX4SeluLq3tW1Z6"
+    },
+    {
+      "id": "3ZOQByRlDDuA7s$5$2BKdl",
+      "name": "Basic Wall:PL_A_WA_EXT_PFC_110mm:411737",
+      "type": "IfcWallStandardCase",
+      "parent": "0mm9k9GdX4SeluLq3tW1Z6"
+    },
+    {
+      "id": "3ZOQByRlDDuA7s$5$2BKa7",
+      "name": "Basic Wall:PL_A_WA_EXT_PFC_110mm:411825",
+      "type": "IfcWallStandardCase",
+      "parent": "0mm9k9GdX4SeluLq3tW1Z6"
+    },
+    {
+      "id": "3ZOQByRlDDuA7s$5$2BKYD",
+      "name": "Basic Wall:PL_A_WA_INT_PFC_TIL_110mm:411963",
+      "type": "IfcWallStandardCase",
+      "parent": "0mm9k9GdX4SeluLq3tW1Z6"
+    },
+    {
+      "id": "3yYuD3b$v0og0Z6TYn4Pcz",
+      "name": "PL_A_WD_1DR:PL_A_WD_GRD_ALU_600x600 mm:412722",
+      "type": "IfcWindow",
+      "parent": "0mm9k9GdX4SeluLq3tW1Z6"
+    },
+    {
+      "id": "3yYuD3b$v0og0Z6TYn4Pbu",
+      "name": "PL_A_DR_EXT:PL_A_DR_EXT_800x2100:412919",
+      "type": "IfcDoor",
+      "parent": "0mm9k9GdX4SeluLq3tW1Z6"
+    },
+    {
+      "id": "3yYuD3b$v0og0Z6TYn4OGg",
+      "name": "Basic Wall:PL_A_WA_EXT_PFC_110mm:414117",
+      "type": "IfcWallStandardCase",
+      "parent": "0mm9k9GdX4SeluLq3tW1Z6"
+    },
+    {
+      "id": "3yYuD3b$v0og0Z6TYn4OEi",
+      "name": "Floor:PL_A_SL_PRF_80mm:415267",
+      "type": "IfcSlab",
+      "parent": "0mm9k9GdX4SeluLq3tW1Z6"
+    },
+    {
+      "id": "2tjqU0_$bB8gbgxNMIMGaB",
+      "name": "Floor:PL_A_SL_GRD_100:416708",
+      "type": "IfcSlab",
+      "parent": "0mm9k9GdX4SeluLq3tW1Z6"
+    },
+    {
+      "id": "0mm9k9GdX4SeluLq3tW1j7",
+      "name": "A_L2.52_Floor",
+      "type": "IfcBuildingStorey",
+      "parent": "0mm9k9GdX4SeluLq08V_O0"
+    },
+    {
+      "id": "0dH0ATDS526OAQ3JMJh5_l",
+      "name": "Floor:PL_A_SL_PRF_80mm:355127",
+      "type": "IfcSlab",
+      "parent": "0mm9k9GdX4SeluLq3tW1j7"
+    },
+    {
+      "id": "3F96lbu01Fae7_IgGAT0aR",
+      "name": "Basic Wall:PL_A_WA_EXT_PFC_110mm:357505",
+      "type": "IfcWallStandardCase",
+      "parent": "0mm9k9GdX4SeluLq3tW1j7"
+    },
+    {
+      "id": "3F96lbu01Fae7_IgGAT0Xa",
+      "name": "Basic Wall:PL_A_WA_EXT_PFC_110mm:357886",
+      "type": "IfcWallStandardCase",
+      "parent": "0mm9k9GdX4SeluLq3tW1j7"
+    },
+    {
+      "id": "3F96lbu01Fae7_IgGAT0hq",
+      "name": "Basic Wall:PL_A_WA_EXT_PFC_110mm:358254",
+      "type": "IfcWallStandardCase",
+      "parent": "0mm9k9GdX4SeluLq3tW1j7"
+    },
+    {
+      "id": "2c5x11X1z9Sv8nvHcbv3JV",
+      "name": "Basic Roof:tetto - 160mm:364777",
+      "type": "IfcRoof",
+      "parent": "0mm9k9GdX4SeluLq3tW1j7"
+    },
+    {
+      "id": "1XVDUL6KH6APQzO4UJP5ux",
+      "name": "Basic Roof:tetto - 160mm:372909",
+      "type": "IfcRoof",
+      "parent": "0mm9k9GdX4SeluLq3tW1j7"
+    },
+    {
+      "id": "1XVDUL6KH6APQzO4UJP5RB",
+      "name": "Basic Wall:PL_A_WA_EXT_PFC_110mm:374877",
+      "type": "IfcWallStandardCase",
+      "parent": "0mm9k9GdX4SeluLq3tW1j7"
+    },
+    {
+      "id": "3yYuD3b$v0og0Z6TYn4OMz",
+      "name": "Basic Wall:PL_A_WA_EXT_PFC_110mm:413746",
+      "type": "IfcWallStandardCase",
+      "parent": "0mm9k9GdX4SeluLq3tW1j7"
+    },
+    {
+      "id": "2tjqU0_$bB8gbgxNMIMG_0",
+      "name": "Basic Wall:PL_A_WA_EXT_PFC_110mm:417103",
+      "type": "IfcWallStandardCase",
+      "parent": "0mm9k9GdX4SeluLq3tW1j7"
+    },
+    {
+      "id": "0fFxF048H1cAJilYFPYRbg",
+      "name": "Structural Beam System:Structural Framing System:402588",
+      "type": "IfcElementAssembly",
+      "parent": "0mm9k9GdX4SeluLq3tW1j7"
+    },
+    {
+      "id": "0fFxF048H1cAJilYFPYRZw",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h80x50mm:402700",
+      "type": "IfcBeam",
+      "parent": "0fFxF048H1cAJilYFPYRbg"
+    },
+    {
+      "id": "0fFxF048H1cAJilYFPYRZv",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h80x50mm:402703",
+      "type": "IfcBeam",
+      "parent": "0fFxF048H1cAJilYFPYRbg"
+    },
+    {
+      "id": "0fFxF048H1cAJilYFPYRZa",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h80x50mm:402706",
+      "type": "IfcBeam",
+      "parent": "0fFxF048H1cAJilYFPYRbg"
+    },
+    {
+      "id": "0fFxF048H1cAJilYFPYRZZ",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h80x50mm:402709",
+      "type": "IfcBeam",
+      "parent": "0fFxF048H1cAJilYFPYRbg"
+    },
+    {
+      "id": "0fFxF048H1cAJilYFPYRZk",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h80x50mm:402712",
+      "type": "IfcBeam",
+      "parent": "0fFxF048H1cAJilYFPYRbg"
+    },
+    {
+      "id": "0fFxF048H1cAJilYFPYRZj",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h80x50mm:402715",
+      "type": "IfcBeam",
+      "parent": "0fFxF048H1cAJilYFPYRbg"
+    },
+    {
+      "id": "0fFxF048H1cAJilYFPYRZe",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h80x50mm:402718",
+      "type": "IfcBeam",
+      "parent": "0fFxF048H1cAJilYFPYRbg"
+    },
+    {
+      "id": "0fFxF048H1cAJilYFPYRZN",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h80x50mm:402721",
+      "type": "IfcBeam",
+      "parent": "0fFxF048H1cAJilYFPYRbg"
+    },
+    {
+      "id": "0fFxF048H1cAJilYFPYRZI",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h80x50mm:402724",
+      "type": "IfcBeam",
+      "parent": "0fFxF048H1cAJilYFPYRbg"
+    },
+    {
+      "id": "0fFxF048H1cAJilYFPYRZH",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h80x50mm:402727",
+      "type": "IfcBeam",
+      "parent": "0fFxF048H1cAJilYFPYRbg"
+    },
+    {
+      "id": "0fFxF048H1cAJilYFPYRZS",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h80x50mm:402730",
+      "type": "IfcBeam",
+      "parent": "0fFxF048H1cAJilYFPYRbg"
+    },
+    {
+      "id": "0fFxF048H1cAJilYFPYRY6",
+      "name": "Structural Beam System:Structural Framing System:402800",
+      "type": "IfcElementAssembly",
+      "parent": "0mm9k9GdX4SeluLq3tW1j7"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2TLK",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h40x40mm:405894",
+      "type": "IfcBeam",
+      "parent": "0fFxF048H1cAJilYFPYRY6"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2TLQ",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h40x40mm:405896",
+      "type": "IfcBeam",
+      "parent": "0fFxF048H1cAJilYFPYRY6"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2TLO",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h40x40mm:405898",
+      "type": "IfcBeam",
+      "parent": "0fFxF048H1cAJilYFPYRY6"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2TLU",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h40x40mm:405900",
+      "type": "IfcBeam",
+      "parent": "0fFxF048H1cAJilYFPYRY6"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2TLS",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h40x40mm:405902",
+      "type": "IfcBeam",
+      "parent": "0fFxF048H1cAJilYFPYRY6"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2TL2",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h40x40mm:405904",
+      "type": "IfcBeam",
+      "parent": "0fFxF048H1cAJilYFPYRY6"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2TL0",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h40x40mm:405906",
+      "type": "IfcBeam",
+      "parent": "0fFxF048H1cAJilYFPYRY6"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2TL6",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h40x40mm:405908",
+      "type": "IfcBeam",
+      "parent": "0fFxF048H1cAJilYFPYRY6"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2TL4",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h40x40mm:405910",
+      "type": "IfcBeam",
+      "parent": "0fFxF048H1cAJilYFPYRY6"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2TLA",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h40x40mm:405912",
+      "type": "IfcBeam",
+      "parent": "0fFxF048H1cAJilYFPYRY6"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2TL8",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h40x40mm:405914",
+      "type": "IfcBeam",
+      "parent": "0fFxF048H1cAJilYFPYRY6"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2TLE",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h40x40mm:405916",
+      "type": "IfcBeam",
+      "parent": "0fFxF048H1cAJilYFPYRY6"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2TLC",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h40x40mm:405918",
+      "type": "IfcBeam",
+      "parent": "0fFxF048H1cAJilYFPYRY6"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2TLo",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h40x40mm:405920",
+      "type": "IfcBeam",
+      "parent": "0fFxF048H1cAJilYFPYRY6"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2TLm",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h40x40mm:405922",
+      "type": "IfcBeam",
+      "parent": "0fFxF048H1cAJilYFPYRY6"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2TLs",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h40x40mm:405924",
+      "type": "IfcBeam",
+      "parent": "0fFxF048H1cAJilYFPYRY6"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2TLq",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h40x40mm:405926",
+      "type": "IfcBeam",
+      "parent": "0fFxF048H1cAJilYFPYRY6"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2Sy9",
+      "name": "Structural Beam System:Structural Framing System:404443",
+      "type": "IfcElementAssembly",
+      "parent": "0mm9k9GdX4SeluLq3tW1j7"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2TKk",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h80x50mm:406012",
+      "type": "IfcBeam",
+      "parent": "1mLyiQ$9H3WPQdKGaF2Sy9"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2TKj",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h80x50mm:406015",
+      "type": "IfcBeam",
+      "parent": "1mLyiQ$9H3WPQdKGaF2Sy9"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2TRG",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h80x50mm:406018",
+      "type": "IfcBeam",
+      "parent": "1mLyiQ$9H3WPQdKGaF2Sy9"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2TRN",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h80x50mm:406021",
+      "type": "IfcBeam",
+      "parent": "1mLyiQ$9H3WPQdKGaF2Sy9"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2TRQ",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h80x50mm:406024",
+      "type": "IfcBeam",
+      "parent": "1mLyiQ$9H3WPQdKGaF2Sy9"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2TRP",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h80x50mm:406027",
+      "type": "IfcBeam",
+      "parent": "1mLyiQ$9H3WPQdKGaF2Sy9"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2TRS",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h80x50mm:406030",
+      "type": "IfcBeam",
+      "parent": "1mLyiQ$9H3WPQdKGaF2Sy9"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2TR3",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h80x50mm:406033",
+      "type": "IfcBeam",
+      "parent": "1mLyiQ$9H3WPQdKGaF2Sy9"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2TR6",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h80x50mm:406036",
+      "type": "IfcBeam",
+      "parent": "1mLyiQ$9H3WPQdKGaF2Sy9"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2TR5",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h80x50mm:406039",
+      "type": "IfcBeam",
+      "parent": "1mLyiQ$9H3WPQdKGaF2Sy9"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2TR8",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h80x50mm:406042",
+      "type": "IfcBeam",
+      "parent": "1mLyiQ$9H3WPQdKGaF2Sy9"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2TRF",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h80x50mm:406045",
+      "type": "IfcBeam",
+      "parent": "1mLyiQ$9H3WPQdKGaF2Sy9"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2TRo",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h80x50mm:406048",
+      "type": "IfcBeam",
+      "parent": "1mLyiQ$9H3WPQdKGaF2Sy9"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2TRn",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h80x50mm:406051",
+      "type": "IfcBeam",
+      "parent": "1mLyiQ$9H3WPQdKGaF2Sy9"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2TRq",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h80x50mm:406054",
+      "type": "IfcBeam",
+      "parent": "1mLyiQ$9H3WPQdKGaF2Sy9"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2TRx",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h80x50mm:406057",
+      "type": "IfcBeam",
+      "parent": "1mLyiQ$9H3WPQdKGaF2Sy9"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2TR_",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h80x50mm:406060",
+      "type": "IfcBeam",
+      "parent": "1mLyiQ$9H3WPQdKGaF2Sy9"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2TUF",
+      "name": "Structural Beam System:Structural Framing System:406365",
+      "type": "IfcElementAssembly",
+      "parent": "0mm9k9GdX4SeluLq3tW1j7"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2TAf",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h40x40mm:407163",
+      "type": "IfcBeam",
+      "parent": "1mLyiQ$9H3WPQdKGaF2TUF"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2TAi",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h40x40mm:407166",
+      "type": "IfcBeam",
+      "parent": "1mLyiQ$9H3WPQdKGaF2TUF"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2T9J",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h40x40mm:407169",
+      "type": "IfcBeam",
+      "parent": "1mLyiQ$9H3WPQdKGaF2TUF"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2T9M",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h40x40mm:407172",
+      "type": "IfcBeam",
+      "parent": "1mLyiQ$9H3WPQdKGaF2TUF"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2T9L",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h40x40mm:407175",
+      "type": "IfcBeam",
+      "parent": "1mLyiQ$9H3WPQdKGaF2TUF"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2T9O",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h40x40mm:407178",
+      "type": "IfcBeam",
+      "parent": "1mLyiQ$9H3WPQdKGaF2TUF"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2T9V",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h40x40mm:407181",
+      "type": "IfcBeam",
+      "parent": "1mLyiQ$9H3WPQdKGaF2TUF"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2T92",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h40x40mm:407184",
+      "type": "IfcBeam",
+      "parent": "1mLyiQ$9H3WPQdKGaF2TUF"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2T91",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h40x40mm:407187",
+      "type": "IfcBeam",
+      "parent": "1mLyiQ$9H3WPQdKGaF2TUF"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2T94",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h40x40mm:407190",
+      "type": "IfcBeam",
+      "parent": "1mLyiQ$9H3WPQdKGaF2TUF"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2T9B",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h40x40mm:407193",
+      "type": "IfcBeam",
+      "parent": "1mLyiQ$9H3WPQdKGaF2TUF"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2T9E",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h40x40mm:407196",
+      "type": "IfcBeam",
+      "parent": "1mLyiQ$9H3WPQdKGaF2TUF"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2T9D",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h40x40mm:407199",
+      "type": "IfcBeam",
+      "parent": "1mLyiQ$9H3WPQdKGaF2TUF"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2T9m",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h40x40mm:407202",
+      "type": "IfcBeam",
+      "parent": "1mLyiQ$9H3WPQdKGaF2TUF"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2T9t",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h40x40mm:407205",
+      "type": "IfcBeam",
+      "parent": "1mLyiQ$9H3WPQdKGaF2TUF"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2T9w",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h40x40mm:407208",
+      "type": "IfcBeam",
+      "parent": "1mLyiQ$9H3WPQdKGaF2TUF"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2T9v",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h40x40mm:407211",
+      "type": "IfcBeam",
+      "parent": "1mLyiQ$9H3WPQdKGaF2TUF"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2T9y",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h40x40mm:407214",
+      "type": "IfcBeam",
+      "parent": "1mLyiQ$9H3WPQdKGaF2TUF"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2T9Z",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h40x40mm:407217",
+      "type": "IfcBeam",
+      "parent": "1mLyiQ$9H3WPQdKGaF2TUF"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2T9c",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h40x40mm:407220",
+      "type": "IfcBeam",
+      "parent": "1mLyiQ$9H3WPQdKGaF2TUF"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2T9b",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h40x40mm:407223",
+      "type": "IfcBeam",
+      "parent": "1mLyiQ$9H3WPQdKGaF2TUF"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2T9e",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h40x40mm:407226",
+      "type": "IfcBeam",
+      "parent": "1mLyiQ$9H3WPQdKGaF2TUF"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2Tob",
+      "name": "Structural Beam System:Structural Framing System:407671",
+      "type": "IfcElementAssembly",
+      "parent": "0mm9k9GdX4SeluLq3tW1j7"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2Toi",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h80x50mm:407678",
+      "type": "IfcBeam",
+      "parent": "1mLyiQ$9H3WPQdKGaF2Tob"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2TnI",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h80x50mm:407680",
+      "type": "IfcBeam",
+      "parent": "1mLyiQ$9H3WPQdKGaF2Tob"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2TnG",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h80x50mm:407682",
+      "type": "IfcBeam",
+      "parent": "1mLyiQ$9H3WPQdKGaF2Tob"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2TnM",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h80x50mm:407684",
+      "type": "IfcBeam",
+      "parent": "1mLyiQ$9H3WPQdKGaF2Tob"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2TnK",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h80x50mm:407686",
+      "type": "IfcBeam",
+      "parent": "1mLyiQ$9H3WPQdKGaF2Tob"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2Tn4",
+      "name": "Structural Beam System:Structural Framing System:407702",
+      "type": "IfcElementAssembly",
+      "parent": "0mm9k9GdX4SeluLq3tW1j7"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2TnD",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h40x40mm:407711",
+      "type": "IfcBeam",
+      "parent": "1mLyiQ$9H3WPQdKGaF2Tn4"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2Tnp",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h40x40mm:407713",
+      "type": "IfcBeam",
+      "parent": "1mLyiQ$9H3WPQdKGaF2Tn4"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2Tnn",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h40x40mm:407715",
+      "type": "IfcBeam",
+      "parent": "1mLyiQ$9H3WPQdKGaF2Tn4"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2Tnt",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h40x40mm:407717",
+      "type": "IfcBeam",
+      "parent": "1mLyiQ$9H3WPQdKGaF2Tn4"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2Tnr",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h40x40mm:407719",
+      "type": "IfcBeam",
+      "parent": "1mLyiQ$9H3WPQdKGaF2Tn4"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2Tnx",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h40x40mm:407721",
+      "type": "IfcBeam",
+      "parent": "1mLyiQ$9H3WPQdKGaF2Tn4"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2Tnv",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h40x40mm:407723",
+      "type": "IfcBeam",
+      "parent": "1mLyiQ$9H3WPQdKGaF2Tn4"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2Tn$",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h40x40mm:407725",
+      "type": "IfcBeam",
+      "parent": "1mLyiQ$9H3WPQdKGaF2Tn4"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2Tnz",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h40x40mm:407727",
+      "type": "IfcBeam",
+      "parent": "1mLyiQ$9H3WPQdKGaF2Tn4"
+    },
+    {
+      "id": "1mLyiQ$9H3WPQdKGaF2TnZ",
+      "name": "RV_S_SF_RCT:RV_S_SF_RCT_WOOD_h40x40mm:407729",
+      "type": "IfcBeam",
+      "parent": "1mLyiQ$9H3WPQdKGaF2Tn4"
+    }
+  ]
+}
